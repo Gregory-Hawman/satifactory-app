@@ -1,0 +1,32 @@
+.nodesContainer {
+    display: flex;
+  }
+  
+  .nodes {
+    background-color: white;
+    border-radius: 10px;
+    margin: 5rem 2.5rem 1rem 2.5rem;
+    width: 50rem;
+  }
+  
+  .nodeCard {
+    padding: 1rem;
+  }
+  
+  .nodeOutput {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nodeOutput h4{
+    display: flex;
+  }
+  
+  .nodeOutput h4 div{
+    margin-left: .5rem;
+    margin-right: .5rem;
+  }
+  
+  .nodeOutput p{
+    margin-top: 1.25rem;
+  }
